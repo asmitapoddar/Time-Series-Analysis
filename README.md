@@ -28,7 +28,7 @@ Python 3.0
 - numpy
 - pandas
 - matplotlib
-- tatsmodels
+- statsmodels
 - warnings
 - itertools
 - datetime
