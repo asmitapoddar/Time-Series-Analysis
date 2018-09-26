@@ -1,4 +1,4 @@
-# Time Series Analysis using ARIMA model
+# Time Series Analysis of Wireless Network Parameters using ARIMA model
 
 ## Objective
 
